@@ -1,4 +1,4 @@
-package me.syahdilla.putra.sholeh.semester2.p2;
+package me.syahdilla.putra.sholeh.semester2.p3;
 
 public class OperatorAritmatika {
 
