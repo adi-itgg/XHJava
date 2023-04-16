@@ -1,5 +1,8 @@
 package me.syahdilla.putra.sholeh.semester2.p4;
 
+import me.syahdilla.putra.sholeh.Scannable;
+
+@Scannable
 public class OperatorTunggal {
 
     public static void main(String[] args) {

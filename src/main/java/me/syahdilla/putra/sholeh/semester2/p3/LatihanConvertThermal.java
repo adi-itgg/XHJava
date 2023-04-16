@@ -1,8 +1,11 @@
 package me.syahdilla.putra.sholeh.semester2.p3;
 
+import me.syahdilla.putra.sholeh.Scannable;
+
 /**
  * Convert celcius to farenheit, reamur and kelvin
  */
+@Scannable
 public class LatihanConvertThermal {
 
     public static void main(String[] args) {

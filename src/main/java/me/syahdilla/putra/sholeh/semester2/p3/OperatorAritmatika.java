@@ -1,5 +1,8 @@
 package me.syahdilla.putra.sholeh.semester2.p3;
 
+import me.syahdilla.putra.sholeh.Scannable;
+
+@Scannable
 public class OperatorAritmatika {
 
     public static void main(String[] args) {

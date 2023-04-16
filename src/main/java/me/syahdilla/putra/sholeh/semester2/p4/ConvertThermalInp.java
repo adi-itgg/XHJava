@@ -1,7 +1,10 @@
 package me.syahdilla.putra.sholeh.semester2.p4;
 
+import me.syahdilla.putra.sholeh.Scannable;
+
 import java.util.Scanner;
 
+@Scannable
 public class ConvertThermalInp {
 
     public static void main(String[] args) {

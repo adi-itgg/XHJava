@@ -1,9 +1,12 @@
 package me.syahdilla.putra.sholeh.semester2.p5;
 
+import me.syahdilla.putra.sholeh.Scannable;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+@Scannable
 public class ConvertSecToMin {
 
     public static void main(String[] args) {
