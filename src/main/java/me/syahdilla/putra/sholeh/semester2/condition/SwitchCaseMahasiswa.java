@@ -1,4 +1,4 @@
-package me.syahdilla.putra.sholeh.semester2.switchcase;
+package me.syahdilla.putra.sholeh.semester2.condition;
 
 import java.util.Scanner;
 
